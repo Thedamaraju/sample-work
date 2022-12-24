@@ -1,0 +1,23 @@
+body {
+  background-color: #FAF8F1;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FAEAB1;
+  border-width: 4px;
+  width: 5%;
+}
+h1{
+  color: Red;
+  font-size: 19px;
+}
+h2 {
+  color: red;
+  font-size: 19px;
+}
+h3 {
+  color: red;
+  font-size: 19px;
+
+}
